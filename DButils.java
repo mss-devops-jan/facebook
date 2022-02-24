@@ -1,2 +1,2 @@
 hello guys
-this is the first file in git 
+this is a java file which content db related code
